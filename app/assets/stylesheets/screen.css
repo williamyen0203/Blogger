@@ -399,12 +399,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 #articles .actions a {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=20);
+    filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=20)";
     opacity: 0.2
 }
 #articles .actions a:hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=40);
+    filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=40)";
     opacity: 0.4
 }
 #articles .tag_list {
@@ -428,12 +428,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .article_actions a:hover img {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=60);
+    filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=60)";
     opacity: 0.6
 }
 .article_actions img {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=20);
+    filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=20)";
     opacity: 0.2;
     position: relative;
     top: 2px
