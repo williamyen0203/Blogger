@@ -1,4 +1,4 @@
-# Blogger
+== Blogger
 
 This is a Ruby on Rails test app.
 
